@@ -1,1 +1,12 @@
 Hello Nguyễn Hải Đông
+
+->bắt đầu thám hiểm -> gặp tai nạn -> trôi dạt vào một hòn đảo -> thám hiểm tầng đầu tiên (tầng hướng dẫn người chơi - tầng 0 - hướng dẫn người chơi tiêu diệt quái để kiếm item "giấy thông hành để xuống tầng 1" -> sử dụng giấy thông hành xuống tầng 1
+	- nhiệm vụ để xuống đc các tầng thì đều phải có giấy thông hành
+	- bối cảnh:
+		+ tầng 1: thám hiểm phần mộ của lăng tẩm (đền thờ và các phần mộ xung quanh)
+		+ tầng 2: thám hiểm sông băng
+		+ tầng 3: thám hiểm núi lửa
+		+ tầng 4: thám hiểm rừng rậm
+		+ tầng 5: thám hiểm kim tự tháp giữa xa mạc
+		+ tầng 6: thám hiểm mê cung
+		+ tầng 7: đánh boss cuối
