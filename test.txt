@@ -1,4 +1,7 @@
 Hello Nguyễn Hải Đông
+unity version: 2019.4.18
+blender 2.91.0
+
 
 ->bắt đầu thám hiểm -> gặp tai nạn -> trôi dạt vào một hòn đảo -> thám hiểm tầng đầu tiên (tầng hướng dẫn người chơi - tầng 0 - hướng dẫn người chơi tiêu diệt quái để kiếm item "giấy thông hành để xuống tầng 1" -> sử dụng giấy thông hành xuống tầng 1
 	- nhiệm vụ để xuống đc các tầng thì đều phải có giấy thông hành
